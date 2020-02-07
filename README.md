@@ -1,4 +1,4 @@
-# @avatsaev/angular-jwt
+# @avatsaev/angular-jwt (☑️ Ivy compatible)
 
 [![npm version](https://badge.fury.io/js/%40avatsaev%2Fangular-jwt.svg)](https://badge.fury.io/js/%40avatsaev%2Fangular-jwt)
 
